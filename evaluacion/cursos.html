@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduGlobal - Cursos</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm sticky-top">
+    <div class="container">
+      <img src="src/img/logo.png" alt="logotipo" height="40">
+      <a class="navbar-brand fw-bold" href="index.html">EduGlobal</a>
+      <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu"><span class="navbar-toggler-icon"></span></button>
+      <div class="collapse navbar-collapse" id="menu">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="index.html">Inicio</a></li>
+          <li class="nav-item"><a class="nav-link" href="cursos.html">Cursos</a></li>
+          <li class="nav-item"><a class="nav-link" href="registro.html">Registro</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+
+  <section class="container py-5">
+    <h2 class="text-center mb-4">Nuestros Cursos</h2>
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="card h-100">
+          <img src="src/img/curso_ingles[1].webp" class="card-img-top" alt="Inglés">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Curso de Inglés</h5>
+            <p class="card-text">Mejora tus habilidades lingüísticas con profesores certificados.</p>
+            <div class="mt-auto text-center">
+              <button class="btn btn-primary" onclick="abrirVentana('ingles')">Ver más</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card h-100">
+          <img src="src/img/curso_regularizacion[1].jpg" class="card-img-top" alt="Regularización">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Clases de Regularización</h5>
+            <p class="card-text">Refuerza tus conocimientos en matemáticas, física y química.</p>
+            <div class="mt-auto text-center">
+              <button class="btn btn-primary" onclick="abrirVentana('regularizacion')">Ver más</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card h-100">
+          <img src="src/img/curso_examen[1].jpg" class="card-img-top" alt="Examen">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">Preparación Examen de Admisión</h5>
+            <p class="card-text">Entrénate para ingresar a la universidad con éxito.</p>
+            <div class="mt-auto text-center">
+              <button class="btn btn-primary" onclick="abrirVentana('examen')">Ver más</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="text-center mt-5">Horarios Disponibles</h3>
+    <table class="table table-striped text-center mt-3">
+      <thead class="table-primary">
+        <tr>
+          <th>Curso</th>
+          <th>Días</th>
+          <th>Horario</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Inglés</td><td>Lunes y Miércoles</td><td>4:00 - 6:00 PM</td></tr>
+        <tr><td>Regularización</td><td>Martes y Jueves</td><td>3:00 - 5:00 PM</td></tr>
+        <tr><td>Examen de Admisión</td><td>Viernes y Sábado</td><td>5:00 - 7:00 PM</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+   <footer class="bg-primary text-white text-center p-3 mt-4">
+    <p class="mb-0">&copy; 2025 EduGlobal | Todos los derechos reservados.</p>
+    <small>Síguenos en 
+      <i class="bi bi-facebook mx-1"></i> 
+      <i class="bi bi-instagram mx-1"></i> 
+      <i class="bi bi-twitter-x mx-1"></i>
+    </small>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
