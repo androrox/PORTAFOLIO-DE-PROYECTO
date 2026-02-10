@@ -11,7 +11,7 @@ Este repositorio presenta una selección de proyectos desarrollados con el objet
 Colaborar en el desarrollo de un sitio web informativo para el centro educativo "EduGlobal", permitiendo la visualización de oferta académica y registro de alumnos.
 
 **Tecnologías utilizadas:**
-HTML5, CSS3, Bootstrap 5, Git/GitHub.
+HTML, CSS, Bootstrap , Git/GitHub.
 
 **Descripción:**
 Proyecto colaborativo de un sitio web multipágina (Inicio, Cursos, Registro). La plataforma utiliza Bootstrap para asegurar un diseño responsivo y uniforme entre las diferentes secciones desarrolladas por los miembros del equipo.
@@ -27,6 +27,8 @@ Trabajo en equipo. Mi responsabilidad fue el **desarrollo completo de la vista d
 * Colaboración y control de versiones con Git.
 * Diseño modular utilizando componentes de Bootstrap.
 * Estandarización de estilos en proyectos grupales.
+**Vista Previa**
+  > *[/imagenes.cursos]*
 
 ---
 
@@ -61,7 +63,7 @@ Trabajo en equipo. Mi participación fue técnica, enfocándome en el **diseño 
 Desarrollar una aplicación web para la gestión de inventario de medicamentos, permitiendo el registro, consulta, edición y eliminación de información de manera segura y organizada.
 
 **Tecnologías utilizadas:**
-PHP, MySQL, HTML5, CSS3, Bootstrap 5, JavaScript.
+PHP, MySQL, HTML, CSS, Bootstrap , JavaScript.
 
 **Descripción:**
 Aplicación web dinámica que gestiona el flujo de datos de una farmacia. El sistema permite a los administradores mantener un control exacto del stock mediante operaciones de base de datos en tiempo real, garantizando la integridad de la información y el acceso restringido mediante autenticación.
