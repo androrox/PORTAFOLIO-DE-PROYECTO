@@ -27,8 +27,10 @@ Trabajo en equipo. Mi responsabilidad fue el **desarrollo completo de la vista d
 * Colaboración y control de versiones con Git.
 * Diseño modular utilizando componentes de Bootstrap.
 * Estandarización de estilos en proyectos grupales.
+
+  
 **Vista Previa**
-  > *[/imagenes.cursos]*
+![Vista previa del sitio EduGlobal](imagenes/cursos.png)
 
 ---
 
@@ -54,6 +56,8 @@ Trabajo en equipo. Mi participación fue técnica, enfocándome en el **diseño 
 * Se reforzaron habilidades en lenguaje SQL y uso de herramientas de gestión como phpMyAdmin.
 * Comprensión profunda de la normalización de bases de datos y la lógica relacional.
 * Integración de base de datos con lenguajes de servidor (PHP).
+
+![Diagrama de la base de datos SUPI](img/supi.png)
 
 ---
 
