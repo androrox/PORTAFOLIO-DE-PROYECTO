@@ -57,7 +57,9 @@ Trabajo en equipo. Mi participación fue técnica, enfocándome en el **diseño 
 * Comprensión profunda de la normalización de bases de datos y la lógica relacional.
 * Integración de base de datos con lenguajes de servidor (PHP).
 
-!Vista Previa SUPI](imagenes/supi.png)
+  
+**Vista Previa**
+![Vista previa de SUPIl](imagenes/supi.png)
 
 ### Repositorio del Proyecto 
 https://github.com/DanielRoman2006/SUPI/tree/main/SUPI.CLICK
@@ -92,5 +94,6 @@ Trabajo en equipo. Mi responsabilidad principal fue el **desarrollo del Backend*
 * Comprensión del ciclo de vida de una petición web (Request/Response) y manejo de datos de formularios.
 * Lógica de programación para la manipulación y validación de datos del lado del servidor.
 
-
-!Vista Previa Farmacia](imagenes/farmacia.png)
+  
+**Vista Previa**
+![Vista previa del sitio Farmacia](imagenes/farmacia.png)
