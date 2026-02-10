@@ -57,14 +57,16 @@ Trabajo en equipo. Mi participación fue técnica, enfocándome en el **diseño 
 * Comprensión profunda de la normalización de bases de datos y la lógica relacional.
 * Integración de base de datos con lenguajes de servidor (PHP).
 
-![Diagrama de la base de datos SUPI](img/supi.png)
+!Vista Previa SUPI](imagenes/supi.png)
 
+### Repositorio del Proyecto 
+https://github.com/DanielRoman2006/SUPI/tree/main/SUPI.CLICK
 ---
 
 ## Proyecto 3: Panel de Inventario para Farmacia
 
 **Objetivo:**
-Desarrollar una aplicación web para la gestión de inventario de medicamentos, permitiendo el registro, consulta, edición y eliminación de información de manera segura y organizada.
+Desarrollar una aplicación web para la gestión de inventario de medicamentos, permitiendo el registro, consulta, edición y eliminación de información.
 
 **Tecnologías utilizadas:**
 PHP, MySQL, HTML, CSS, Bootstrap , JavaScript.
@@ -89,3 +91,6 @@ Trabajo en equipo. Mi responsabilidad principal fue el **desarrollo del Backend*
 * Dominio de la interacción entre PHP y MySQL.
 * Comprensión del ciclo de vida de una petición web (Request/Response) y manejo de datos de formularios.
 * Lógica de programación para la manipulación y validación de datos del lado del servidor.
+
+
+!Vista Previa Farmacia](imagenes/farmacia.png)
